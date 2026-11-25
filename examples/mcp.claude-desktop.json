@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "model-router": {
+      "url": "https://model-router.lee-anthony57.workers.dev/mcp",
+      "headers": {
+        "Authorization": "Bearer rk_YOUR_KEY",
+        "X-Project-Id": "my-app",
+        "X-Agent-Name": "claude-desktop"
+      }
+    }
+  }
+}

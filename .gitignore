@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.key
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+package-lock.json
+.DS_Store
+*.log

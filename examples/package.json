@@ -1,0 +1,9 @@
+{
+  "name": "model-router-examples",
+  "private": true,
+  "type": "module",
+  "description": "Node examples for Model Router",
+  "dependencies": {
+    "openai": "^4.73.0"
+  }
+}
